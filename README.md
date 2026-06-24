@@ -88,18 +88,6 @@ Required library:
 
 Upload the `.ino` file to the Arduino UNO using the Arduino IDE.
 
-## Project Structure
-
-```text
-Autonomous-Fire-Fighting-Robot/
-│
-├── README.md
-├── firefighter.ino
-├── images/
-│   └── final_robot.png
-└── report.pdf
-```
-
 ## How to Use
 
 1. Connect all components according to the circuit connection.
