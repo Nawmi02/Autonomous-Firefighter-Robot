@@ -94,12 +94,10 @@ Upload the `.ino` file to the Arduino UNO using the Arduino IDE.
 Autonomous-Fire-Fighting-Robot/
 │
 ├── README.md
-├── code/
-│   └── fire_fighting_robot.ino
+├── firefighter.ino
 ├── images/
-│   └── final_robot.jpg
-└── docs/
-    └── report.pdf
+│   └── final_robot.png
+└── report.pdf
 ```
 
 ## How to Use
@@ -134,7 +132,11 @@ This robot is a small-scale academic prototype. It should only be tested in a sa
 
 ## Team
 
-This project was developed as an academic robotics project on an Arduino-based Autonomous Fire Fighting Robot.
+This project was developed as an academic robotics project by-
+Nashrah Zakir
+Sharmin Sulatana Annie
+Nusrat Jahan Urmi
+Lubna Akter
 
 ## License
 
