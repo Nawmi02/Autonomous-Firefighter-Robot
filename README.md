@@ -133,10 +133,10 @@ This robot is a small-scale academic prototype. It should only be tested in a sa
 ## Team
 
 This project was developed as an academic robotics project by-
-Nashrah Zakir
-Sharmin Sulatana Annie
-Nusrat Jahan Urmi
-Lubna Akter
+- Nashrah Zakir
+- Sharmin Sulatana Annie
+- Nusrat Jahan Urmi
+- Lubna Akter
 
 ## License
 
