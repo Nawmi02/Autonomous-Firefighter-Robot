@@ -26,7 +26,7 @@ The robot uses a flame sensor mounted on a servo motor to scan the environment. 
 | Flame Sensor | 1 | Detects flame presence and direction |
 | Servo Motor | 2 | One for scanning, one for nozzle aiming |
 | L298N Motor Driver | 1 | Controls DC motors |
-| DC Motors | 2 or 4 | Moves the robot |
+| DC Motors | 4 | Moves the robot |
 | Relay Module | 1 | Safely controls the water pump |
 | 3–12V DC Water Pump | 1 | Pumps water for extinguishing fire |
 | Water Tank | 1 | Stores water |
